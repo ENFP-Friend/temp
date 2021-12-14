@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>pictogram/Small./Travel48</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pictogram/Small./Travel48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -4.000000)">
+            <g id="pictogramTravel48" transform="translate(11.000000, 8.000000)" stroke="#4F4C4D" stroke-width="1.5">
+                <polyline id="Rectangle-7" stroke-linecap="square" points="9 3.5 9 0 17 0 17 3.5"></polyline>
+                <path d="M2.9,5 L22.9,5 C24,5 24.9,5.9 24.9,7 L24.9,36 C24.9,37.1 24,38 22.9,38 L2.9,38 C1.8,38 0.9,37.1 0.9,36 L0.9,7 C0.9,5.9 1.8,5 2.9,5 Z" id="Rectangle-5" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M1,32 L25,32 L25,36 C25,37.1 24.1,38 23,38 L3,38 C1.9,38 1,37.1 1,36 L1,32 Z" id="Focus" fill="#FFCC00" fill-rule="nonzero"></path>
+                <path d="M3.8,39.5 L3.8,40.3" id="Line" stroke-linecap="square" transform="translate(4.300000, 40.000000) scale(-1, 1) translate(-4.300000, -40.000000) "></path>
+                <path d="M18.2,11.8 L18.2,25.3" id="Line-Copy-3" stroke-linecap="square"></path>
+                <path d="M8.2,11.8 L8.2,25.3" id="Line-Copy-3" stroke-linecap="square"></path>
+            </g>
+            <rect id="Bounding-Box" x="0" y="0" width="48" height="48"></rect>
+        </g>
+        <path d="M30.8,43.5 L30.8,44.3" id="Line" stroke="#4F4C4D" stroke-width="1.5" stroke-linecap="square" transform="translate(31.300000, 44.000000) scale(-1, 1) translate(-31.300000, -44.000000) "></path>
+    </g>
+</svg>
